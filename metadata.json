@@ -1,0 +1,5 @@
+{
+  "name": "Live Memory Animator",
+  "description": "Bring your old photos to life using Google's Veo video generation model. Upload a static image and watch it transform into a moving memory.",
+  "requestFramePermissions": []
+}
